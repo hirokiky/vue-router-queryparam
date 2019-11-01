@@ -1,0 +1,26 @@
+{
+  "name": "vue-router-queryparam",
+  "version": "0.1.0",
+  "description": "Syncing queryparam on Vue/Vue-Router app.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirokiky/vue-router-queryparam.git"
+  },
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "vue",
+    "vue-router"
+  ],
+  "author": "Hiroki Kiyohara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hirokiky/vue-router-queryparam/issues"
+  },
+  "homepage": "https://github.com/hirokiky/vue-router-queryparam#readme"
+}
